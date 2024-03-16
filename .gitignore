@@ -2,6 +2,7 @@
 node_modules
 /build
 /.svelte-kit
+/koa-example/.secrets.js
 /package
 .env
 .env.*
