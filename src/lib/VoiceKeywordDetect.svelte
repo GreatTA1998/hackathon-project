@@ -1,4 +1,12 @@
-<button id="startButton">Start talking</button>
+<button id="startButton" style="margin-top: 12px;
+  height: 48px; 
+  font-size: 28px;
+  padding-left: 18px;
+  padding-right: 18px;
+  background-color: purple; color: white; border-radius: 24px; cursor: pointer;">
+  Start talking
+</button>
+
 <div id="output"></div>
 
 <script>
